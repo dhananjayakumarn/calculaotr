@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: #CCCCFF;
+    
+}
+
+table{
+    width: 404px;
+    height: 300px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    margin-top: 20px;
+    background-color: azure;
+    font-size: 20px;
+    font-weight:600;
+    margin-left: 600px;
+    margin-top: 0;
+    border: 3px solid skyblue;
+    border-radius: 10px;
+
+
+
+
+}
+
+input{
+
+    align-items: center;
+    margin-left: 599px;
+    margin-top: 60px;
+    width: 399px;
+    height: 40px;
+    border: 3px solid skyblue;
+    border-radius: 10px;
+
+}
+
+h1{
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 25px;
+    font-family:'Orelega One';
+    font-size: 45px;
+    color: blueviolet;
+
+
+}
+
+h1:hover{
+    color:skyblue;
+    font-size: 40px;
+}
+td button{
+    width: 55px;
+    height: 35px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 800;
+    border: 2px solid black;
+}
+td button:hover{
+    color:#7D3C98;
+    background-color: black;
+}
